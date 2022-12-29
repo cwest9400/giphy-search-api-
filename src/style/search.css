@@ -1,0 +1,19 @@
+
+.gif-container {
+    display: flex;
+    justify-content: space-around;     
+}
+
+.search-bar {
+    height: 30px;
+    border-color: blueviolet;
+    border-radius: 8px;
+    margin-bottom: 40px;   
+}
+
+.gifs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}

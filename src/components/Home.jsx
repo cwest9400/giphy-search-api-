@@ -1,11 +1,11 @@
 import React from "react";
-import Search from "./Search";
+import SearchContainer from "./SearchContainer";
 
 export default function Home() {
     return (
         <div>
-            <h1>Home</h1>
-            <Search />
+            <h1>Gify Search</h1>
+            <SearchContainer />
         </div>
     )
 }
